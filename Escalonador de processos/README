@@ -1,0 +1,4 @@
+Simulador de gerenciador de processos por Samuel Felipe Córdova Victório.
+
+Para execução do simulador, a linha de comando deve ser semelhante a seguinte: python3 'Escalonador de processos.py' "nome da política' 'nome do arquivo de dados'
+Os nome das políticas são: 'Round-Robin', 'SJF' e 'Prioridade estática'. O simulador não é case sensitive, logo, não é necessário o cuidado com letras maiúsculas e minúsculas no nome da política na linha de comando.
